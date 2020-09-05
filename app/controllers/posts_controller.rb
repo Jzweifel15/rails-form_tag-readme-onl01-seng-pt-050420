@@ -3,4 +3,11 @@ class PostsController < ApplicationController
     @posts = Post.all
   end
   
+  def new 
+  end
+  
+  def create
+    
+  end
+  
 end
